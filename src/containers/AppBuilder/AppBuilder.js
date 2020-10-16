@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Auxiliary from './../../hoc/Auxiliary '
+import Auxiliary from '../../hoc/Auxiliary'
 
 class AppBuilder extends Component {
     render() {
