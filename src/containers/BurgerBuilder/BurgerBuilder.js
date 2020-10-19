@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Auxiliary from '../../hoc/Auxiliary'
 
-class AppBuilder extends Component {
+class BurgerBuilder extends Component {
     render() {
         return (
             <Auxiliary>
@@ -12,4 +12,4 @@ class AppBuilder extends Component {
     }
 }
 
-export default AppBuilder;
+export default BurgerBuilder;
